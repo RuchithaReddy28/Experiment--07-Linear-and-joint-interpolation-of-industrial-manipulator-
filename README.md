@@ -45,5 +45,5 @@ DART studio screen shots for linear interpolation and DART studio screen shots f
 [output](https://github.com/RuchithaReddy28/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/blob/main/8.4.jpeg?raw=true)
 [output](https://github.com/RuchithaReddy28/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/blob/main/8.5.jpeg?raw=true)
 
-### Results: 
+### Result: 
 Thus ,linear and joint interpolation of industrial manipulator and program is executed.
